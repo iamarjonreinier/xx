@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project</title>
-  <link rel="stylesheet" type="text/css" href="hobbies.css">
-   <link rel="stylesheet" type="text/css" href="w3.css">
-  <script src="js/mainscript.js" defer></script>
 
-
-  <style>
-    #project {
-      background-image: url('images/background2.png'); 
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-size: 100% 100%;
-      font-family: Courier (sans-serif);
-      text-shadow: 2px 2px 5px rgba(0, 0, 0, 15);
-    }
-  </style>
+   
 </head>
   <body>
     <body>
